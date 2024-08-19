@@ -43,7 +43,7 @@ function resta(a: any, b: any) {
 // console.log(resta({ z: 8 }, [0, 1]));
 
 let miVariable: any = null;
-miVariable = 7;
+miVariable = "Bart";
 // Aserción de Tipo "as"
 const nuevaVariable = miVariable as string; //* : string
 
