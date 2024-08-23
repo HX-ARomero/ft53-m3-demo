@@ -1,8 +1,10 @@
-# Cohorte FT52 - Módulo 3
+# Cohorte FT53 - Módulo 3
 
 ## [Semantic Version](./readmes/semanticVersion.md)
 
 ## [Métodos de Arrays](./readmes/arrays-metodos.md)
+
+## [Datos curiosos sobre programación](./readmes/datos.md)
 
 ## Resúmenes de Clases
 
