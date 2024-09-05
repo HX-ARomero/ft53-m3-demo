@@ -6,7 +6,13 @@
 
 ## [Datos curiosos sobre programación](./readmes/datos.md)
 
-## Resúmenes de Clases
+## [Buenas Pácticas](./readmes/01-GoodPractices.md)
+
+## [Multiple Choice de práctica](./readmes/choice.md)
+
+## [🎉 REGALOS: FIN DEL MÓDULO 3 🎉](./readmes/regalos.md)
+
+## Material Extra de Clases
 
 - [01- TypeScript I](./readmes/m3-01.md)
 - [02- TypeScript II](./readmes/m3-02.md)
